@@ -1,6 +1,6 @@
 ---
 role: 
-avatar_filename: img_0428-2021-11-21-01_22_12.jpg
+avatar_filename:
 bio: 
 interests:
 projects:
