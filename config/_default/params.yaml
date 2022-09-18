@@ -14,15 +14,15 @@ font_size: L
 
 # SEO
 
-site_type: Person
-local_business_type: ''
-org_name: ''
-description: 'David Finster'
-twitter: 'dfinr'
+#site_type: Person
+#local_business_type: ''
+#org_name: ''
+#description: 'David Finster'
+#twitter: 'dfinr'
 
 # Contact (edit or remove options as required)
 
-email: david@dfinr.com
+email: david@fortc.com
 #phone: 888 888 88 88
 #address:
 #  street: 450 Serra Mall
@@ -39,11 +39,11 @@ email: david@dfinr.com
 #  - 'Monday 10:00 to 13:00'
 #  - 'Wednesday 09:00 to 10:00'
 #appointment_url: 'https://calendly.com'
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow me
-    link: 'https://twitter.com/dfinr'
+#contact_links:
+#  - icon: twitter
+#    icon_pack: fab
+#    name: Follow me
+#    link: 'https://twitter.com/dfinr'
 #  - icon: skype
 #    icon_pack: fab
 #    name: Skype Me
@@ -101,7 +101,7 @@ reading_time: true
 section_pager: false
 docs_section_pager: true
 sharing: false
-## i_am_a_sponsor: true 
+## i_am_a_sponsor: true
 copyright_license:
   enable: false
   allow_derivatives: false
