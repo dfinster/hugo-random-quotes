@@ -1,3 +1,7 @@
+/* 
+Hugo Random Quote styles
+*/
+
 .quote_heading {
     font-size: 1.25rem;
     font-family: "PT Sans", sans-serif;
@@ -26,14 +30,10 @@
     padding-left: 2rem;
     text-align: left;
 }
-.article-tags {
-    margin-top: 0.2rem;
-}
-/*
-.random_quote {
-    padding-left: 1rem;
-    padding-right: 1rem;
-}
+
+
+/* 
+Other custom styles - not specifc for Random Quotes 
 */
 
 img[src$='#center']
@@ -57,12 +57,6 @@ img[src$='#floatright']
     float:right;
     margin: 0.7rem;      /* this margin is totally up to you */
     /* whatever else styles you fancy here */
-}
-
-.footnote-ref {
-    background-color: #dddddd;
-    padding: 2px;
-    border-radius: 20%;
 }
 
 .big-icon {
