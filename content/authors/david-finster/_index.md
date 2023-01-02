@@ -7,9 +7,9 @@ projects:
 social:
 organizations:
 superuser: true
-highlight_name: true
-title: David Finster
-email: "david@fortc.com"
+highlight_name: false
+title: 
+email: 
 ---
 
 I wrote a Hugo shortcode that displays random quotes. Refresh this page to see a new quote.
